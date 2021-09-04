@@ -7,8 +7,8 @@ import Typography from '@material-ui/core/Typography';
 //import GridTest from './components/GridTest.js';
 
 //import TodoList from './components/TodoList.js';
-import Categories from './components/Categories.js';
-//import Category from './components/Category.js';
+//import Categories from './components/Categories.js';
+import Category from './components/Category.js';
 
 const score = 0;
 function App() {
@@ -43,7 +43,7 @@ function App() {
       <Category />
       */}
 
-      <Categories />
+      <Category id="1892"/>
       
   
     </div>
